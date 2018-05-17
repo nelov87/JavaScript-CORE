@@ -16,4 +16,4 @@ function chesboard(n){
 
 }
 
-chesboard(4);
+chesboard(10);
